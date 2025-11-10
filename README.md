@@ -1,12 +1,12 @@
-Jio Hotstar Dashboard: Movies vs TV Shows Analysis (Excel)
+**Jio Hotstar Dashboard: Movies vs TV Shows Analysis (Excel)**
 
-📌 **Project Overview**
+📌 **Project Overview:**
 
 This project presents an interactive Excel dashboard comparing Movies and TV Shows available on Jio Hotstar.
 The dashboard provides visual insights into content distribution, genres, release years, age ratings, and running time — helping understand viewing trends across both categories.
 
 
-🎯 **Objectives**
+🎯 **Objectives:**
 
 1. Compare the number and characteristics of Movies vs TV Shows.
 2. Analyze trends in release years and genres.
@@ -14,7 +14,7 @@ The dashboard provides visual insights into content distribution, genres, releas
 4.Build an interactive dashboard using functions like countif,countblank,Pivot Tables, Slicers, and Charts.
 
 
-🛠️ **Tools & Techniques Used**
+🛠️ **Tools & Techniques Used:**
 
 Microsoft Excel
 Data Cleaning & Preparation
@@ -24,7 +24,7 @@ KPI Cards for quick insights
 
 
 
-📁 **Files Included**
+📁 **Files Included:**
 
 JioHotstar Project Dashboard.xlsx — Main Excel file containing:
 
@@ -41,7 +41,7 @@ JioHotstar Dashboard.png — Screenshot preview of the dashboard.
 
 
 
-📈 **Key Insights**
+📈 **Key Insights:**
 
 
 Total number of Movies vs TV Shows available.
@@ -58,7 +58,7 @@ Average running time for movies (TV shows excluded).
 
 
 
-📚 **Data Source**
+📚 **Data Source:**
 
 Dataset obtained from Kaggle (Jio Hotstar Dataset).
 Used only for academic and analytical purposes.
@@ -66,7 +66,7 @@ Used only for academic and analytical purposes.
 
 
 
-🚀 **Future Scope**
+🚀 **Future Scope:**
 
 Extend the same analysis using Python (Pandas, Matplotlib) and R (ggplot2).
 
@@ -76,7 +76,7 @@ Add a comparative trend analysis between OTT platforms.
 
 
 
-🧩 **How to View**
+🧩 **How to View:**
 
 1. Download the Excel file from this repository.
 
